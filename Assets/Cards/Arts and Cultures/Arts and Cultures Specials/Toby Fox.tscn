@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://btxfv8qy1qcyb"]
+
+[ext_resource type="Texture2D" uid="uid://c4g2uw16ewp8" path="res://Sprites/Cards/Arts and Cultures/Arts and Cultures Specials/Toby Fox Card.png" id="1_svvcv"]
+
+[node name="TobyFox" type="Node2D" unique_id=2106448357]
+
+[node name="TobyFoxCard" type="Sprite2D" parent="." unique_id=1045109279]
+position = Vector2(585, 836)
+scale = Vector2(0.86029416, 0.86029416)
+texture = ExtResource("1_svvcv")

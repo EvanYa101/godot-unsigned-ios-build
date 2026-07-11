@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://qceg5d4qk0cy"]
+
+[ext_resource type="Texture2D" uid="uid://1midsrnmyod3" path="res://Sprites/Cards/Jeffery E. Card.png" id="1_kq13o"]
+
+[node name="Jeffery Epstein" type="Node2D" unique_id=1656120869]
+
+[node name="JefferyE_Card" type="Sprite2D" parent="." unique_id=1163180272]
+position = Vector2(585, 835.99994)
+scale = Vector2(0.8602941, 0.86029404)
+texture = ExtResource("1_kq13o")

@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://b4mvaq4xevp0f"]
+
+[ext_resource type="Texture2D" uid="uid://8wrl4o52lana" path="res://Sprites/Cards/Epstein Island Card.png" id="1_15cky"]
+
+[node name="EpsteinIsland" type="Node2D" unique_id=713209926]
+
+[node name="EpsteinIslandCard" type="Sprite2D" parent="." unique_id=1448872905]
+position = Vector2(585, 836)
+scale = Vector2(0.8602942, 0.8602942)
+texture = ExtResource("1_15cky")

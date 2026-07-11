@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://dvqpi63sq0rx5"]
+
+[ext_resource type="Texture2D" uid="uid://dittexgiofr61" path="res://Sprites/Cards/Arts and Cultures/Musically Minded/Megalovania Card.png" id="1_3ygxq"]
+
+[node name="Megalovania" type="Node2D" unique_id=825843684]
+
+[node name="MegalovaniaCard" type="Sprite2D" parent="." unique_id=822702955]
+position = Vector2(585, 836)
+scale = Vector2(0.86029416, 0.86029416)
+texture = ExtResource("1_3ygxq")

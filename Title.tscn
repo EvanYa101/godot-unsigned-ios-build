@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://d2i0ekvq850sj"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_1r5mv"]
+font_size = 80
+
+[node name="Node2D" type="Node2D" unique_id=775305672]
+
+[node name="Label" type="Label" parent="." unique_id=1676434442]
+offset_top = 53.0
+offset_right = 1170.0
+offset_bottom = 424.0
+text = "Cards, the Universe and 
+Everything (and Anything Else 
+That We Want)"
+label_settings = SubResource("LabelSettings_1r5mv")
+horizontal_alignment = 1
+vertical_alignment = 1
